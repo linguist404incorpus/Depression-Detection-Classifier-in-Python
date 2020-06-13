@@ -1,0 +1,2 @@
+# Depression-Detection-Classifier-in-Python
+In this project, 5 typical features in depression detection by social media texts (Twitter) are analyzed: tf-idf, Word2Vec, average sentence length, Pos Tagging, social interative features (hashtag usage and retweet times). The special thing is this project is the algorithms of the analysis of tf-idf and Word2Vec features are modified according to Twitter texts' properties which are extracted by API.
